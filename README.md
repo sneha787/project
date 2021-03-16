@@ -2,11 +2,11 @@
 
 ### Qucick Summary of my application
 * In my application, I add some features like, **Security in Login**
-* **first USer have to do compulsary "Loggedin" in my application.
-* I put menus in my app like **"Home", "List", "Create", "Search", "Login/Logout"
-* **User can't see all pages content from menu without do "Login" 
-* After login User can see all the pages and can do operations like **READ the list of all restaurants from menu "List", ADD new restaurant from "Create page",     if User want UPDATE recored from "List", he/she can also edit records with click on Edit icon in "List", as well as user can also DELETE the unwanted records     from the "List" with click earse icon in last column.    
-* After Add, Update and Delete operation user can see new Added, Edited, Deleted records in "List" from menu.
+* **first USer have to do compulsary "Loggedin" in my application.**
+* I put menus in my app like **"Home", "List", "Create", "Search", "Login/Logout"**
+* **User can't see all pages content from menu without do "Login"**
+* After login User can see all the pages and can do operations like **READ the list of all restaurants from menu "List", ADD new restaurant from "Create page",     if User want UPDATE recored from "List", he/she can also edit records with click on Edit icon in "List", as well as user can also DELETE the unwanted records     from the "List" with click earse icon in last column.**    
+* After Add, Update and Delete operation **user can see new Added, Edited, Deleted records in "List" from menu**.
 
 ### To make this project, **according to my work role on my current job**, in this application I used some latest Front technologies, Control System, IDE, Debugging tool, Database, Operating System these all are mentioned below:
 
@@ -58,9 +58,9 @@
   **ls**
 * start json server with 
   **json-server --watch db.json** 
-  * after this command our database is ready to run on server port **https://localhost:3000/
+  * after this command our database is ready to run on server port **https://localhost:3000/**
 * After started json server, I had to start server for run our app
-  **npm start** and it will open in new different port **http://localhost:3001/login
+  **npm start** and it will open in new different port **http://localhost:3001/login**
 
 ### Setup Routing Steps:
 * First I installed package router-dom to my project with command
