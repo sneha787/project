@@ -4,7 +4,7 @@
 
 * **Webtechnologies** - **React JS**, **Node JS**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **AJAX**, **JSON**
 * **ControlSystem** - **GitHub for source and version control**
-* **Database** - **MongoDB**
+* **Database** - **MongoDB** performed **CURD operations**
 * **DebuddingTool** - **Chrome Developer tool**
 * **IDE** - **Visual Studio code**
 * **Operating Syatem** - **macOs**
@@ -109,7 +109,7 @@
 * Write code for DELETE API
 * Test list
 
-### Search API
+### Search API (READ operation)
 * Test search API on POSTMAN
 * make a textbox for search
 * call Search API
