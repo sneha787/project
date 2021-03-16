@@ -7,12 +7,12 @@
 * **Database** - **MongoDB** performed **CURD operations**
 * **DebuddingTool** - **Chrome Developer tool**
 * **IDE** - **Visual Studio code**
-* **Operating Syatem** - **macOs**
+* **Operating Syatem** - **macOs**, **Windows**
 
 **If I will do modification I will push new changes on it**
 **Note: For run this react app in local environment, we have to add node modules packages to our system. 
 
-## I mentioned here my topics, which I inclided to create react app:
+## I mentioned here my topics, which I included to create restaurant app:
 
 ### Outer Topics:
 
