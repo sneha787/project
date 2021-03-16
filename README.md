@@ -18,7 +18,7 @@
 * **Operating Syatem** - **macOs**, **Windows**
 
 ## For run my application in local syatem, follow the below steps:
-* First clone it from github.com by copy the link and give command in terminal **git clone 
+* First clone it from github.com by copy the link and give command in terminal **git clone https://github.com/sneha787/restaurant.git**
 * Second most **imp step is install node modules packages like react react-router-dom** by command **npm i react react-router-dom node**
 * Third step; move to db folder with command **cd db
 * start json server to see database on fly with cmd **json-server --watch db.json** 
