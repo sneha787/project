@@ -1,0 +1,59 @@
+{
+  "login": [
+    {
+      "userName": "sneha",
+      "password": "sp@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Starbucks",
+      "address": "Schamburg",
+      "email": "starbucks@gmail.com",
+      "rating": "3.7",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Lumalnaties",
+      "address": "Hanoverpark",
+      "email": "lumalnaties@gmail.com",
+      "rating": "5"
+    },
+    {
+      "name": "Giordano's Pizza",
+      "address": "158 Gary Ave, Bloomingdale",
+      "email": "geordanos@gmail.com",
+      "rating": "4.5",
+      "id": 3
+    },
+    {
+      "name": "Dunkin Donuts",
+      "address": "Bartlett",
+      "email": "dunkindonuts@gmail.com",
+      "rating": "3",
+      "id": 4
+    },
+    {
+      "name": "Subway",
+      "address": "Sterns Road",
+      "email": "subwy@gmail.com",
+      "rating": "4",
+      "id": 5
+    },
+    {
+      "name": "McDonald",
+      "address": "Streamwood",
+      "email": "pizzeria@gmail.com",
+      "rating": "4.2",
+      "id": 6
+    },
+    {
+      "name": "Hakka wok",
+      "address": "Bartlett",
+      "email": "wok@test.com",
+      "rating": "5",
+      "id": 7
+    }
+  ]
+}
