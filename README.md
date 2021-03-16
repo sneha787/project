@@ -2,12 +2,12 @@
 
 * To make this project I used some latest Front technologies, Control System, IDE, Debugging tool, Database, Operating System these all are mentioned below:
 
-**Webtechnologies** - **React JS**, **Node JS**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **AJAX**, **JSON**
-**ControlSystem** - **GitHub for source and version control**
-**Database** - **MongoDB**
-**DebuddingTool** - **Chrome Developer tool**
-**IDE** - **Visual Studio code**
-**Operating Syatem** - **macOs**
+* **Webtechnologies** - **React JS**, **Node JS**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **AJAX**, **JSON**
+* **ControlSystem** - **GitHub for source and version control**
+* **Database** - **MongoDB**
+* **DebuddingTool** - **Chrome Developer tool**
+* **IDE** - **Visual Studio code**
+* **Operating Syatem** - **macOs**
 
 * For run this react app in local environment, we have to add node modules packages to our system. 
 
