@@ -1,6 +1,14 @@
-## project
+## restaurant
 
-* To make this project, according to my work role on my current job, in this application I used some latest Front technologies, Control System, IDE, Debugging tool, Database, Operating System these all are mentioned below:
+### Qucick Summary of my application
+* In my application, I add some features like, **Security in Login**
+* **first USer have to do compulsary "Loggedin" in my application.**
+* I put menus in my app like **"Home", "List", "Create", "Search", "Login/Logout"**
+* **User can't see all pages content from menu without do "Login"**
+* After login User can see all the pages and can do operations like **READ the list of all restaurants from menu "List", ADD new restaurant from "Create page",     if User want UPDATE recored from "List", he/she can also edit records with click on Edit icon in "List", as well as user can also DELETE the unwanted records     from the "List" with click earse icon in last column.**    
+* After Add, Update and Delete operation **user can see new Added, Edited, Deleted records in "List" from menu**.
+
+### To make this project, **according to my work role on my current job**, in this application I used some latest Front technologies, Control System, IDE, Debugging tool, Database, Operating System these all are mentioned below:
 
 * **Webtechnologies** - **React JS**, **Node JS**, **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **AJAX**, **JSON**
 * **ControlSystem** - **GitHub for source and version control**
@@ -9,8 +17,14 @@
 * **IDE** - **Visual Studio code**
 * **Operating Syatem** - **macOs**, **Windows**
 
-**If I will do modification I will push new changes on it**
-**Note: For run this react app in local environment, we have to add node modules packages to our system. 
+## For run my application in local syatem, follow the below steps:
+* First clone it from github.com by copy the link and give command in terminal **git clone https://github.com/sneha787/restaurant.git**
+* Second most **imp step is install node modules packages like react react-router-dom** by command **npm i react react-router-dom node**
+* Third step; move to db folder with command **cd db**
+* start json server to see database on fly with cmd **json-server --watch db.json** 
+* Fourth step; open new window in terminal and run the app with **npm start**
+
+**If I will do modification I will push new changes on it** 
 
 ## I mentioned here my topics, which I included to create restaurant app:
 
@@ -27,7 +41,7 @@
 * Search restaurant
 * Style and Design
 
-### Sub Topics:
+### Sub Topics-(Descriptions of each outer topics):
 
 #### Make a Project Structre: CLI steps
 * create project skeleton by terminal command
@@ -44,9 +58,9 @@
   **ls**
 * start json server with 
   **json-server --watch db.json** 
-  * after this command our database is ready to run on server port for ex. (https://localhost:3000/)
+  * after this command our database is ready to run on server port **https://localhost:3000/**
 * After started json server, I had to start server for run our app
-  **npm start**
+  **npm start** and it will open in new different port **http://localhost:3001/login**
 
 ### Setup Routing Steps:
 * First I installed package router-dom to my project with command
