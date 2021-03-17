@@ -8,7 +8,7 @@
   "restaurant": [
     {
       "name": "Starbucks",
-      "address": "Schamburg",
+      "address": "Schaumbarg",
       "email": "starbucks@gmail.com",
       "rating": "3.7",
       "id": 1
@@ -54,6 +54,13 @@
       "email": "wok@test.com",
       "rating": "5",
       "id": 7
+    },
+    {
+      "name": "Lumalnaties",
+      "address": "Schaumbarg",
+      "email": "lumalnaties12@gmail.com",
+      "rating": "3.3",
+      "id": 8
     }
   ]
 }
